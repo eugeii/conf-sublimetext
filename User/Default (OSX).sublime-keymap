@@ -1,0 +1,64 @@
+[
+    // Vintageous.
+	{ "keys": ["f10"], "command": "reset_vintageous" },
+    { "keys": ["f11"], "command": "" },
+    { "keys": ["ctrl+]"], "command": "goto_definition" },
+    // {
+    //     "keys": ["Q", "Q"],
+    //     "command": "_enter_normal_mode",
+    //     "args": {
+    //         "mode": "mode_normal"
+    //     },
+    //     // "context": [{"key": "vi_insert_mode_aware"}]
+    // },
+
+    // Better tab behavior.
+    { "keys": ["tab"], "command": "reindent" },
+
+    // Sublime default bindings.
+    // (some packages damage these bindings, we place them here to ensure that they survive.
+    { "keys": ["super+shift+r"], "command": "goto_symbol_in_project" },
+    { "keys": ["super+shift+t"], "command": "reopen_last_file" },
+
+    // Ergonomic bindings.
+    { "keys": ["ctrl+z"], "command": "undo" },
+    { "keys": ["ctrl+c"], "command": "copy" },
+    { "keys": ["ctrl+v"], "command": "paste" },
+    { "keys": ["ctrl+x"], "command": "cut" },
+    { "keys": ["ctrl+s"], "command": "save" },
+    { "keys": ["ctrl+d"], "command": "find_under_expand" },
+    { "keys": ["ctrl+r"], "command": "redo" },
+	{ "keys": ["ctrl+\\"], "command": "toggle_comment", "args": { "block": false } },
+
+    // // GitSavvy.
+    // { "keys": ["super+f13"], "command": "gs_show_status" },
+    // { "keys": ["super+shift+f13"], "command": "gs_quick_stage_current_file_commit" },
+    // { "keys": ["j"], "command": "move", "args": {"by": "lines", "forward": true},
+    //     "context": [
+    //         { "key": "selector", "operator": "equal", "operand": "git-savvy.status" }
+    //     ]
+    // },
+    // { "keys": ["k"], "command": "move", "args": {"by": "lines", "forward": false},
+    //     "context": [
+    //         { "key": "selector", "operator": "equal", "operand": "git-savvy.status" }
+    //     ]
+    // },
+
+    // Terminal.
+    { "keys": ["super+/"], "command": "open_terminal" },
+    { "keys": ["super+shift+/"], "command": "open_terminal_project_folder" },
+
+	// SublimeGit.
+	{ "keys": ["super+f13"], "command": "git_status" },
+    { "keys": ["super+shift+f13"], "command": "git_quick_commit_current_file" },
+    { "keys": ["j"], "command": "git_status_move", "args": {"goto": "item:next"},
+        "context": [
+            { "key": "selector", "operator": "equal", "operand": "text.git-status" }
+        ]
+    },
+    { "keys": ["k"], "command": "git_status_move", "args": {"goto": "item:prev"},
+        "context": [
+            { "key": "selector", "operator": "equal", "operand": "text.git-status" }
+        ]
+    },
+]

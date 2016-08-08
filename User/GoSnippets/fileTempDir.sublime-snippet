@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+${1:tmpname}, err := ioutil.TempDir(${2:dir}, ${3:prefix})
+if err != nil {
+    ${4:log.Fatal(err)}
+}
+]]></content>
+	<tabTrigger>fileTempDir</tabTrigger>
+	<scope>source.go</scope>
+</snippet>

@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+if err := ioutil.WriteFile(${1:filename}, ${2:data}, ${3:perm}); err != nil {
+    ${4:log.Fatal(err)}
+}
+]]></content>
+	<tabTrigger>fileWrite</tabTrigger>
+	<scope>source.go</scope>
+</snippet>

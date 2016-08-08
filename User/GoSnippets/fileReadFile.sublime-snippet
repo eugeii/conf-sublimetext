@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+${1:b}, err := ioutil.ReadFile(${2:file})
+if err != nil {
+    ${3:log.Fatal(err)}
+}
+]]></content>
+	<tabTrigger>fileReadFile</tabTrigger>
+	<scope>source.go</scope>
+</snippet>

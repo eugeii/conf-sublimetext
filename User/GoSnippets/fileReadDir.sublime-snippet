@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+${1:files}, err := ioutil.ReadDir(${2:dir})
+if err != nil {
+    ${3:log.Fatal(err)}
+}
+]]></content>
+	<tabTrigger>fileReadDir</tabTrigger>
+	<scope>source.go</scope>
+</snippet>

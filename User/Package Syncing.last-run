@@ -1,0 +1,127 @@
+{
+    "last_local_data": {
+        "Default (OSX).sublime-keymap": {
+            "dir": "", 
+            "path": "/Users/eugeii/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap", 
+            "version": 1426216049.0
+        }, 
+        "GoSublime-aux.sublime-settings": {
+            "dir": "", 
+            "path": "/Users/eugeii/Library/Application Support/Sublime Text 3/Packages/User/GoSublime-aux.sublime-settings", 
+            "version": 1425024853.0
+        }, 
+        "GoSublime.sublime-settings": {
+            "dir": "", 
+            "path": "/Users/eugeii/Library/Application Support/Sublime Text 3/Packages/User/GoSublime.sublime-settings", 
+            "version": 1421220624.0
+        }, 
+        "Markdown.sublime-settings": {
+            "dir": "", 
+            "path": "/Users/eugeii/Library/Application Support/Sublime Text 3/Packages/User/Markdown.sublime-settings", 
+            "version": 1422514626.0
+        }, 
+        "Package Control.sublime-settings": {
+            "dir": "", 
+            "path": "/Users/eugeii/Library/Application Support/Sublime Text 3/Packages/User/Package Control.sublime-settings", 
+            "version": 1427021437.0
+        }, 
+        "PlainTasks.sublime-settings": {
+            "dir": "", 
+            "path": "/Users/eugeii/Library/Application Support/Sublime Text 3/Packages/User/PlainTasks.sublime-settings", 
+            "version": 1426215404.0
+        }, 
+        "Preferences.sublime-settings": {
+            "dir": "", 
+            "path": "/Users/eugeii/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings", 
+            "version": 1427021438.0
+        }, 
+        "SublimeAStyleFormatter.sublime-settings": {
+            "dir": "", 
+            "path": "/Users/eugeii/Library/Application Support/Sublime Text 3/Packages/User/SublimeAStyleFormatter.sublime-settings", 
+            "version": 1426584111.0
+        }, 
+        "SublimeGit.sublime-settings": {
+            "dir": "", 
+            "path": "/Users/eugeii/Library/Application Support/Sublime Text 3/Packages/User/SublimeGit.sublime-settings", 
+            "version": 1426247077.0
+        }, 
+        "SublimeLinter.sublime-settings": {
+            "dir": "", 
+            "path": "/Users/eugeii/Library/Application Support/Sublime Text 3/Packages/User/SublimeLinter.sublime-settings", 
+            "version": 1424186765.0
+        }, 
+        "SublimeLinter/Monokai (SL).tmTheme": {
+            "dir": "SublimeLinter", 
+            "path": "/Users/eugeii/Library/Application Support/Sublime Text 3/Packages/User/SublimeLinter/Monokai (SL).tmTheme", 
+            "version": 1419405805.0
+        }, 
+        "TextPastryHistory.sublime-settings": {
+            "dir": "", 
+            "path": "/Users/eugeii/Library/Application Support/Sublime Text 3/Packages/User/TextPastryHistory.sublime-settings", 
+            "version": 1426414329.0
+        }
+    }, 
+    "last_remote_data": {
+        "Default (OSX).sublime-keymap": {
+            "dir": "", 
+            "path": "\n\n\n\n\n\n/Volumes/share/eugeii-dropbox/backup/config/sublime-text/Default (OSX).sublime-keymap", 
+            "version": 1426216049.0
+        }, 
+        "GoSublime-aux.sublime-settings": {
+            "dir": "", 
+            "path": "\n\n\n\n\n\n/Volumes/share/eugeii-dropbox/backup/config/sublime-text/GoSublime-aux.sublime-settings", 
+            "version": 1425024853.0
+        }, 
+        "GoSublime.sublime-settings": {
+            "dir": "", 
+            "path": "\n\n\n\n\n\n/Volumes/share/eugeii-dropbox/backup/config/sublime-text/GoSublime.sublime-settings", 
+            "version": 1421220624.0
+        }, 
+        "Markdown.sublime-settings": {
+            "dir": "", 
+            "path": "\n\n\n\n\n\n/Volumes/share/eugeii-dropbox/backup/config/sublime-text/Markdown.sublime-settings", 
+            "version": 1422514626.0
+        }, 
+        "Package Control.sublime-settings": {
+            "dir": "", 
+            "path": "\n\n\n\n\n\n/Volumes/share/eugeii-dropbox/backup/config/sublime-text/Package Control.sublime-settings", 
+            "version": 1427021437.0
+        }, 
+        "PlainTasks.sublime-settings": {
+            "dir": "", 
+            "path": "\n\n\n\n\n\n/Volumes/share/eugeii-dropbox/backup/config/sublime-text/PlainTasks.sublime-settings", 
+            "version": 1426215404.0
+        }, 
+        "Preferences.sublime-settings": {
+            "dir": "", 
+            "path": "\n\n\n\n\n\n/Volumes/share/eugeii-dropbox/backup/config/sublime-text/Preferences.sublime-settings", 
+            "version": 1427021438.0
+        }, 
+        "SublimeAStyleFormatter.sublime-settings": {
+            "dir": "", 
+            "path": "\n\n\n\n\n\n/Volumes/share/eugeii-dropbox/backup/config/sublime-text/SublimeAStyleFormatter.sublime-settings", 
+            "version": 1426584111.0
+        }, 
+        "SublimeGit.sublime-settings": {
+            "dir": "", 
+            "path": "\n\n\n\n\n\n/Volumes/share/eugeii-dropbox/backup/config/sublime-text/SublimeGit.sublime-settings", 
+            "version": 1426247077.0
+        }, 
+        "SublimeLinter.sublime-settings": {
+            "dir": "", 
+            "path": "\n\n\n\n\n\n/Volumes/share/eugeii-dropbox/backup/config/sublime-text/SublimeLinter.sublime-settings", 
+            "version": 1424186765.0
+        }, 
+        "SublimeLinter/Monokai (SL).tmTheme": {
+            "dir": "SublimeLinter", 
+            "path": "\n\n\n\n\n\n/Volumes/share/eugeii-dropbox/backup/config/sublime-text/SublimeLinter/Monokai (SL).tmTheme", 
+            "version": 1419405805.0
+        }, 
+        "TextPastryHistory.sublime-settings": {
+            "dir": "", 
+            "path": "\n\n\n\n\n\n/Volumes/share/eugeii-dropbox/backup/config/sublime-text/TextPastryHistory.sublime-settings", 
+            "version": 1426414329.0
+        }
+    }, 
+    "remove_packages": []
+}

@@ -1,0 +1,884 @@
+{
+	"history":
+	[
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "1 x 5"
+				},
+				"command": "text_pastry_step",
+				"text": "1 x 5"
+			},
+			"key": "9325b1f5de95161eb82261c39b794cbe",
+			"label": "1 x 5"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "1 x45"
+				},
+				"command": "text_pastry_step",
+				"text": "1 x45"
+			},
+			"key": "ad9ee11a388b784443e63ead79143990",
+			"label": "1 x45"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "10 x10"
+				},
+				"command": "text_pastry_step",
+				"text": "10 x10"
+			},
+			"key": "b49ec052f15e663bd9ac556ae6f0b640",
+			"label": "10 x10"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "1 x 10"
+				},
+				"command": "text_pastry_step",
+				"text": "1 x 10"
+			},
+			"key": "5f22bb2fe6109e3aad0ecefa4427af51",
+			"label": "1 x 10"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "15"
+				},
+				"command": "text_pastry_step",
+				"text": "15"
+			},
+			"key": "9bf31c7ff062936a96d3c8bd1f8f2ff3",
+			"label": "15"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"context": null,
+					"operator": null,
+					"pattern": "searchParams"
+				},
+				"command": "text_pastry_modify_selection",
+				"text": "find searchParams"
+			},
+			"key": "0b8558a34eb8aa428c2a1c96b45be7b9",
+			"label": "find searchParams"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"context": "file",
+					"operator": "add",
+					"pattern": "vm\\."
+				},
+				"command": "text_pastry_modify_selection",
+				"text": "add vm\\."
+			},
+			"key": "1cdeba9b1cb0614fd98f8c89cc386cf9",
+			"label": "add vm\\."
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "10"
+				},
+				"command": "text_pastry_step",
+				"text": "10"
+			},
+			"key": "d3d9446802a44259755d38e6d163e820",
+			"label": "10"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "1 x10"
+				},
+				"command": "text_pastry_step",
+				"text": "1 x10"
+			},
+			"key": "3cb7083dccafe87ffa848b42e1004490",
+			"label": "1 x10"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "01"
+				},
+				"command": "text_pastry_step",
+				"text": "01"
+			},
+			"key": "96a3be3cf272e017046d1b2674a52bd3",
+			"label": "01"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "001 x10"
+				},
+				"command": "text_pastry_step",
+				"text": "001 x10"
+			},
+			"key": "8d4b929610482f48863188e5668b2399",
+			"label": "001 x10"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"repeat": "10",
+					"text": ""
+				},
+				"command": "text_pastry_date_range",
+				"text": "days x10"
+			},
+			"key": "f9755a7bd0f311a4c4fa1b0a5628138d",
+			"label": "days x10"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"uppercase": true
+				},
+				"command": "text_pastry_uuid",
+				"text": "UUID"
+			},
+			"key": "5a54d9ad87f7c4c1c70c8f05b9515d5a",
+			"label": "UUID"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"context": null,
+					"operator": null,
+					"pattern": "searchParams?"
+				},
+				"command": "text_pastry_modify_selection",
+				"text": "find searchParams?"
+			},
+			"key": "3fa3faf59a698ec4448560c3d516d90a",
+			"label": "find searchParams?"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"context": null,
+					"operator": null,
+					"pattern": "search()Params?"
+				},
+				"command": "text_pastry_modify_selection",
+				"text": "find search()Params?"
+			},
+			"key": "834a33aee83ef932ec453b98adbe0fe0",
+			"label": "find search()Params?"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"context": null,
+					"operator": null,
+					"pattern": "\"59.*?\""
+				},
+				"command": "text_pastry_modify_selection",
+				"text": "find \"59.*?\""
+			},
+			"key": "ceb0b2ce983f6f3cdd6ad93c045552ac",
+			"label": "find \"59.*?\""
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"context": null,
+					"operator": null,
+					"pattern": "\"59.*\""
+				},
+				"command": "text_pastry_modify_selection",
+				"text": "find \"59.*\""
+			},
+			"key": "a8e8127ac94decb546bcfa926677abbd",
+			"label": "find \"59.*\""
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"context": "selection",
+					"operator": "subtract",
+					"pattern": "vm."
+				},
+				"command": "text_pastry_modify_selection",
+				"text": "remove vm."
+			},
+			"key": "c0cb100939ff98a33a3dd0449ee12e53",
+			"label": "remove vm."
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"context": "selection",
+					"operator": "subtract",
+					"pattern": "Params"
+				},
+				"command": "text_pastry_modify_selection",
+				"text": "remove Params"
+			},
+			"key": "900d3b304e55d3cbfcc52e3eb3c30b65",
+			"label": "remove Params"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"context": null,
+					"operator": null,
+					"pattern": "searchParams.*"
+				},
+				"command": "text_pastry_modify_selection",
+				"text": "find searchParams.*"
+			},
+			"key": "6f552d0a9f9f60aba1d76f4e6f97c596",
+			"label": "find searchParams.*"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"context": "selection",
+					"operator": "subtract",
+					"pattern": "search"
+				},
+				"command": "text_pastry_modify_selection",
+				"text": "remove search"
+			},
+			"key": "ebc40baa560994f2898c16c06609191c",
+			"label": "remove search"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "search",
+					"threshold": 3
+				},
+				"command": "text_pastry_insert_text",
+				"text": "search"
+			},
+			"key": "06a943c59f33a34bb5924aaf72cd2995",
+			"label": "search"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"context": null,
+					"operator": null,
+					"pattern": "search"
+				},
+				"command": "text_pastry_modify_selection",
+				"text": "find search"
+			},
+			"key": "e41b6056ac81aedcbb9790fea46cb84d",
+			"label": "find search"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"context": "file",
+					"operator": "add",
+					"pattern": "vm"
+				},
+				"command": "text_pastry_modify_selection",
+				"text": "add vm"
+			},
+			"key": "ffb728b74fba1bf640f88e6fe34ac917",
+			"label": "add vm"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"context": "file",
+					"operator": "add",
+					"pattern": "vallue"
+				},
+				"command": "text_pastry_modify_selection",
+				"text": "add vallue"
+			},
+			"key": "3e8d60e36b07165ea087215492796df3",
+			"label": "add vallue"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"context": "file",
+					"operator": "add",
+					"pattern": "value"
+				},
+				"command": "text_pastry_modify_selection",
+				"text": "add value"
+			},
+			"key": "6ea99479578819ad04bb5f40b30b0ca9",
+			"label": "add value"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"context": null,
+					"operator": null,
+					"pattern": "search*"
+				},
+				"command": "text_pastry_modify_selection",
+				"text": "find search*"
+			},
+			"key": "0390904ddd60a582508a02ca7d8f6809",
+			"label": "find search*"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"context": null,
+					"operator": null,
+					"pattern": "search.*"
+				},
+				"command": "text_pastry_modify_selection",
+				"text": "find search.*"
+			},
+			"key": "ddba9f526a30c3b8ec4468bc5d242a56",
+			"label": "find search.*"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"context": "selection",
+					"operator": "subtract",
+					"pattern": "vm"
+				},
+				"command": "text_pastry_modify_selection",
+				"text": "remove vm"
+			},
+			"key": "9704d483c8bde1eaef1bd1501e0cda51",
+			"label": "remove vm"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"context": "selection",
+					"operator": "subtract",
+					"pattern": "value"
+				},
+				"command": "text_pastry_modify_selection",
+				"text": "remove value"
+			},
+			"key": "b79cc81e33c2ee0b17393758b366d931",
+			"label": "remove value"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "\\ [A-Z]",
+					"threshold": 3
+				},
+				"command": "text_pastry_insert_text",
+				"text": "\\ [A-Z]"
+			},
+			"key": "f7e26bba5c3ae6011f2148d3f8feee92",
+			"label": "\\ [A-Z]"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"context": null,
+					"operator": null,
+					"pattern": "\\ [A-Z]"
+				},
+				"command": "text_pastry_modify_selection",
+				"text": "find \\ [A-Z]"
+			},
+			"key": "46d612e6aafd2325641d479f6228be05",
+			"label": "find \\ [A-Z]"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"context": null,
+					"operator": null,
+					"pattern": ".* ="
+				},
+				"command": "text_pastry_modify_selection",
+				"text": "find .* ="
+			},
+			"key": "688895903f99d22ad1d17493a88369a4",
+			"label": "find .* ="
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"context": null,
+					"operator": null,
+					"pattern": ".*="
+				},
+				"command": "text_pastry_modify_selection",
+				"text": "find .*="
+			},
+			"key": "e0fe05c35eaa5d2a29de78635fcea03e",
+			"label": "find .*="
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"context": null,
+					"operator": null,
+					"pattern": ".* = map"
+				},
+				"command": "text_pastry_modify_selection",
+				"text": "find .* = map"
+			},
+			"key": "fc86dfdf9cc52b4df18d710cbbafc81d",
+			"label": "find .* = map"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"context": null,
+					"operator": null,
+					"pattern": "\":.*?\""
+				},
+				"command": "text_pastry_modify_selection",
+				"text": "find \":.*?\""
+			},
+			"key": "438b80b521a92570714a35b473d3bdfc",
+			"label": "find \":.*?\""
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"context": null,
+					"operator": null,
+					"pattern": "cityview"
+				},
+				"command": "text_pastry_modify_selection",
+				"text": "find cityview"
+			},
+			"key": "760b0c797ebc5f743673bc68a2c101d6",
+			"label": "find cityview"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"context": "file",
+					"operator": "add",
+					"pattern": "highfloor"
+				},
+				"command": "text_pastry_modify_selection",
+				"text": "add highfloor"
+			},
+			"key": "8df1055db375a01a8420c068f45c7882",
+			"label": "add highfloor"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"context": "file",
+					"operator": "add",
+					"pattern": "penthouse"
+				},
+				"command": "text_pastry_modify_selection",
+				"text": "add penthouse"
+			},
+			"key": "9bf71d55ffffaa19380a1a0e0e35210f",
+			"label": "add penthouse"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "count =",
+					"threshold": 3
+				},
+				"command": "text_pastry_insert_text",
+				"text": "count ="
+			},
+			"key": "e164a2e8c9a5e7ed4851e51138adb386",
+			"label": "count ="
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"context": null,
+					"operator": null,
+					"pattern": "count ="
+				},
+				"command": "text_pastry_modify_selection",
+				"text": "find count ="
+			},
+			"key": "c0c2ed7edc2b886fa7bf6053dd6a6318",
+			"label": "find count ="
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "A",
+					"threshold": 3
+				},
+				"command": "text_pastry_insert_text",
+				"text": "A"
+			},
+			"key": "7fc56270e7a70fa81a5935b72eacbe29",
+			"label": "A"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "guid",
+					"threshold": 3
+				},
+				"command": "text_pastry_insert_text",
+				"text": "guid"
+			},
+			"key": "1e0ca5b1252f1f6b1e0ac91be7e7219e",
+			"label": "guid"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "GUID",
+					"threshold": 3
+				},
+				"command": "text_pastry_insert_text",
+				"text": "GUID"
+			},
+			"key": "7b1419a14dcdd33f81732a4710376cd1",
+			"label": "GUID"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"clipboard": true
+				},
+				"command": "text_pastry_insert_text",
+				"text": "\\p"
+			},
+			"key": "ceb8141b2b1d05fb9539bc1381b58745",
+			"label": "\\p"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "Monday",
+					"threshold": 3
+				},
+				"command": "text_pastry_insert_text",
+				"text": "Monday"
+			},
+			"key": "6f8522e0610541f1ef215a22ffa66ff6",
+			"label": "Monday"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "Feb",
+					"threshold": 3
+				},
+				"command": "text_pastry_insert_text",
+				"text": "Feb"
+			},
+			"key": "ea171d540ccd5f0669171ef06d3cd848",
+			"label": "Feb"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "200"
+				},
+				"command": "text_pastry_step",
+				"text": "200"
+			},
+			"key": "3644a684f98ea8fe223c713b77189a77",
+			"label": "200"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "4"
+				},
+				"command": "text_pastry_step",
+				"text": "4"
+			},
+			"key": "a87ff679a2f3e71d9181a67b7542122c",
+			"label": "4"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "0*4"
+				},
+				"command": "text_pastry_step",
+				"text": "0*4"
+			},
+			"key": "87b578f99bbd000d7359f3fa6a05322b",
+			"label": "0*4"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "0"
+				},
+				"command": "text_pastry_step",
+				"text": "0"
+			},
+			"key": "cfcd208495d565ef66e7dff9f98764da",
+			"label": "0"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "paste",
+					"threshold": 3
+				},
+				"command": "text_pastry_insert_text",
+				"text": "paste"
+			},
+			"key": "2f73afad7f2480e30b484a13d08c8c95",
+			"label": "paste"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "p\\",
+					"threshold": 3
+				},
+				"command": "text_pastry_insert_text",
+				"text": "p\\"
+			},
+			"key": "28d3418bc73b8c6c63b52f17338ea91b",
+			"label": "p\\"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"clipboard": true,
+					"separator": ""
+				},
+				"command": "text_pastry_insert_text",
+				"text": "p "
+			},
+			"key": "d572956b265c891bdb3bacbcca08e1fd",
+			"label": "p "
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"clipboard": true
+				},
+				"command": "text_pastry_insert_text",
+				"text": "p"
+			},
+			"key": "83878c91171338902e0fe0fb97a8c47a",
+			"label": "p"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "uui",
+					"threshold": 3
+				},
+				"command": "text_pastry_insert_text",
+				"text": "uui"
+			},
+			"key": "4f0db45be48dddb73d9f104c46abb760",
+			"label": "uui"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "3"
+				},
+				"command": "text_pastry_step",
+				"text": "3"
+			},
+			"key": "eccbc87e4b5ce2fe28308fd9f2a7baf3",
+			"label": "3"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "2"
+				},
+				"command": "text_pastry_step",
+				"text": "2"
+			},
+			"key": "c81e728d9d4c2f636f067f89cc14862c",
+			"label": "2"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"context": null,
+					"operator": null,
+					"pattern": "ACTION"
+				},
+				"command": "text_pastry_modify_selection",
+				"text": "find ACTION"
+			},
+			"key": "9957f77b707a0f5b49cbb9949e20b25b",
+			"label": "find ACTION"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "n",
+					"threshold": 3
+				},
+				"command": "text_pastry_insert_text",
+				"text": "n"
+			},
+			"key": "7b8b965ad4bca0e41ab51de7b31363a1",
+			"label": "n"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "1"
+				},
+				"command": "text_pastry_step",
+				"text": "1"
+			},
+			"key": "c4ca4238a0b923820dcc509a6f75849b",
+			"label": "1"
+		},
+		{
+			"data":
+			{
+				"args": null,
+				"command": "text_pastry_uuid",
+				"text": "uuid"
+			},
+			"key": "ef7c876f00f3acddd00fa671f52d0b1f",
+			"label": "uuid"
+		}
+	],
+	"last_command":
+	{
+		"args": null,
+		"command": "text_pastry_uuid",
+		"text": "uuid"
+	}
+}

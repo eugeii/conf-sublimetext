@@ -1,0 +1,6 @@
+{
+    "options_default": {
+        // Default bracket style
+        "style": "java",
+    },
+}

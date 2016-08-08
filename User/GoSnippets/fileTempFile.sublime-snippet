@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+${1:f}, err := ioutil.TempFile(${2:dir}, ${3:prefix})
+if err != nil {
+    ${4:log.Fatal(err)}
+}
+]]></content>
+	<tabTrigger>fileTempFile</tabTrigger>
+	<scope>source.go</scope>
+</snippet>
