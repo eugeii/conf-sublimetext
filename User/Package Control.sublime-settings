@@ -6,6 +6,7 @@
 	"installed_packages":
 	[
 		"BetterFindBuffer",
+		"Golang Build",
 		"GoOracle",
 		"GoSublime",
 		"HTML-CSS-JS Prettify",
@@ -23,7 +24,7 @@
 		"SublimeLinter",
 		"SublimeLinter-contrib-eslint",
 		"SublimeLinter-pep8",
-		"Sublimerge Pro",
+		"Sublimerge 3",
 		"Text Pastry",
 		"Theme - Soda",
 		"Vintageous"
