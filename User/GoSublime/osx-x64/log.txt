@@ -21164,3 +21164,26 @@ Gocode pkg: "code.corp.qavar.com/dev/qdocs/qdocs"
 Gocode pkg: "code.corp.qavar.com/dev/qdocs/qdocs"
 Gocode env: gocode.margoEnv{LibPath:"/usr/local/Cellar/go/1.6/libexec/pkg/darwin_amd64:/Users/eugeii/dev/go/pkg/darwin_amd64", GOOS:"darwin", GOARCH:"amd64", Compiler:"gc", GOROOT:"/usr/local/Cellar/go/1.6/libexec", GOPATH:"/Users/eugeii/dev/go", InstallSuffix:""}
 Gocode pkg: "code.corp.qavar.com/dev/qdocs/graphicsmagick"
+Gocode pkg: "code.corp.qavar.com/dev/qdocs/qdocs"
+
+** 2016-08-15 10:05:11.457441 **:
+GsComplete: Blocking Call(gocode_complete) timed out after 3.000 second(s). You might need to increase the `ipc_timeout` setting
+--------------------------------
+
+** 2016-08-15 10:05:14.738295 **:
+GsComplete: Blocking Call(gocode_complete) timed out after 3.000 second(s). You might need to increase the `ipc_timeout` setting
+--------------------------------
+
+** 2016-08-15 10:05:19.770956 **:
+GsComplete: Blocking Call(gocode_complete) timed out after 3.000 second(s). You might need to increase the `ipc_timeout` setting
+--------------------------------
+
+** 2016-08-15 10:05:24.881176 **:
+GsComplete: Blocking Call(gocode_complete) timed out after 3.000 second(s). You might need to increase the `ipc_timeout` setting
+--------------------------------
+
+** 2016-08-15 10:05:28.335717 **:
+GsComplete: Blocking Call(gocode_complete) timed out after 3.000 second(s). You might need to increase the `ipc_timeout` setting
+--------------------------------
+Gocode pkg: "code.corp.qavar.com/dev/qdocs/qdocs"
+Gocode env: gocode.margoEnv{LibPath:"/usr/local/Cellar/go/1.6/libexec/pkg/darwin_amd64:/Users/eugeii/dev/go/pkg/darwin_amd64", GOOS:"darwin", GOARCH:"amd64", Compiler:"gc", GOROOT:"/usr/local/Cellar/go/1.6/libexec", GOPATH:"/Users/eugeii/dev/go", InstallSuffix:""}

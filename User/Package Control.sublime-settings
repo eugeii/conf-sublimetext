@@ -6,6 +6,7 @@
 	"installed_packages":
 	[
 		"BetterFindBuffer",
+		"Crypto",
 		"Golang Build",
 		"GoOracle",
 		"GoSublime",
